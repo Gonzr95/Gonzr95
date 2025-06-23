@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hola, Gonzalo Rodriguez acá 👋
 
 <!--
 **Gonzr95/Gonzr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 En este momento estoy trabajando en un proyecto MySQL para imitar el comportamiento de Google Fotos y plasmar todo lo que fui aprendiendo este año acerca de Bases de Datos relacionales
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
